@@ -18,7 +18,7 @@ public class Passport {
         
         if (vaccinated == 1)
         {
-         String horsename =JOptionPane.showInputDialog("what is the name of the dinkelyberyh that loves little boys");
+         String horsename =JOptionPane.showInputDialog("what is the name of the your little boy sire :)");
          String vet =JOptionPane.showInputDialog("what is the name of the vet");
          String firstname =JOptionPane.showInputDialog("what is the first name of the previous owner");
          String lastname =JOptionPane.showInputDialog("what is the last name of the previous owner ");
