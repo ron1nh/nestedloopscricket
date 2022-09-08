@@ -25,7 +25,7 @@ public class Nestedloops_Cricket2022 {
      
      int teams=0;
         
-     int gametime = Integer.parseInt(JOptionPane.showInputDialog("enter the number of overs in the game  "));
+     int gametime = Integer.parseInt(JOptionPane.showInputDialog("enter the number of overs in the game  fdafadsfafaf"));
     int runs;
     int batsman = 11;
     
